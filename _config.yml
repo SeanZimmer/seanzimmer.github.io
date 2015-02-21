@@ -1,0 +1,9 @@
+# Site settings
+title: Sean K Zimmer
+tag_text: 
+description: Personal website of Sean K Zimmer, Naturalist, Brooklyn NY. 
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
