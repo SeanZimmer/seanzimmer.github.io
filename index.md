@@ -4,9 +4,9 @@ layout: default
 
 #Hi, I'm [Sean](http://seanzimmer.github.io)
 
-##I'm a naturalist based in Brooklyn, New York. 
+##I'm a naturalist based in Brooklyn, New York
 
-##Blog at [Forager Theory](http://foragertheory.com)
+##Contributer at [Forager Theory](http://foragertheory.com)
 
 ##Here is a [resume](#)
 
