@@ -7,3 +7,8 @@ description: Personal website of Sean K Zimmer, Naturalist, Brooklyn NY.
 markdown: kramdown
 
 exclude: ["README.md"]
+
+# Prose configin' 
+prose:
+  rooturl: 'index.md'
+  siteurl: 'http://seanzimmer.github.io'
