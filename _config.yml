@@ -2,13 +2,11 @@
 title: Sean K Zimmer
 tag_text: 
 description: Personal website of Sean K Zimmer, Naturalist, Brooklyn NY. 
+url:              http://seanzimmer.github.io
+baseurl:          /
 
 # Build settings
 markdown: kramdown
 
 exclude: ["README.md"]
 
-# Prose configin' 
-prose:
-  rooturl: 'index.md'
-  siteurl: 'http://seanzimmer.github.io'
