@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 #Hi, I'm [Sean](http://seanzimmer.github.io)
@@ -8,8 +9,8 @@ layout: default
 
 ##Contributer at [Forager Theory](http://foragertheory.com)
 
-##Here is a [resume](#)
+##Here's my [resume](#)
 
 ##I'm also on Twitter [@foragertheory](http://twitter.com/foragertheory)
 
-##Contact via <a href="mailto:seankzimmer@gmail.com">email</a>
+##Contact me via <a href="mailto:seankzimmer@gmail.com">email</a>
