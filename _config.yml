@@ -11,8 +11,5 @@ relative_permalinks: true
 title:            Sean Zimmer
 tag_text:         
 description:      Personal website of Sean K Zimmer, Naturalist, Brooklyn NY. 
-url:              http://jamesonzimmer.github.io
+url:              http://seanzimmer.github.io
 baseurl:          /
-
-  name:           'Sean Zimmer'
-  url:            https://twitter.com/foragertheory
