@@ -1,4 +1,4 @@
-#Hi, I'm [Sean Zimmer](http://seanzimmer.github.io)
+#Hi, I'm [Sean](http://seanzimmer.github.io)
 
 ##I'm a naturalist based in Brooklyn, New York
 
