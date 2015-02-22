@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-#Hi, I'm [Sean](http://seanzimmer.github.io)ss
+#Hi, I'm [Sean](http://seanzimmer.github.io)
 
 ##I'm a naturalist based in Brooklyn, New York
 
