@@ -1,12 +1,18 @@
-# Site settings
-title: Sean K Zimmer
-tag_text: 
-description: Personal website of Sean K Zimmer, Naturalist, Brooklyn NY. 
-url:              http://seanzimmer.github.io
-baseurl:          /
-
-# Build settings
-markdown: kramdown
-
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
 exclude: ["README.md"]
 
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Sean Zimmer
+tag_text:         
+description:      Personal website of Sean K Zimmer, Naturalist, Brooklyn NY. 
+url:              http://jamesonzimmer.github.io
+baseurl:          /
+
+  name:           'Sean Zimmer'
+  url:            https://twitter.com/foragertheory
